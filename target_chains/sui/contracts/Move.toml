@@ -11,7 +11,7 @@ rev = "mainnet-v1.57.2"
 git = "https://github.com/DeeptradeProtocol/wormhole.git"
 subdir = "sui/wormhole"
 # rev = "sui-codegen"
-rev = "c3da861a3e87af3134b700b95494589f8c9d0a90"
+rev = "a12f042b1b884b1c24205545fb8aace40d8026d3"
 
 [addresses]
 pyth = "0x00b53b0f4174108627fbee72e2498b58d6a2714cded53fac537034c220d26302"
