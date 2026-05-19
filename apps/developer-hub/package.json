@@ -39,7 +39,7 @@
     "shiki": "catalog:",
     "tsx": "catalog:",
     "viem": "catalog:",
-    "ws": "^8.19.0",
+    "ws": "^8.20.1",
     "zod": "catalog:",
     "zod-validation-error": "catalog:"
   },
