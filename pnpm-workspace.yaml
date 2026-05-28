@@ -178,7 +178,7 @@ catalog:
   throttleit: ^2.1.0
   ts-node: ^10.9.2
   tsx: 4.20.6
-  turbo: ^2.7.4
+  turbo: ^2.9.14
   uuid: ^13.0.0
   type-fest: ^5.2.0
   typedoc: ^0.26.8
