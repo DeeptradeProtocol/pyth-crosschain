@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@pythnetwork/contract-manager": "workspace:*",
-    "joi": "^17.6.0",
+    "joi": "^18.2.1",
     "pino": "catalog:",
     "prom-client": "^15.1.0",
     "viem": "catalog:",
